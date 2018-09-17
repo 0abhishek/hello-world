@@ -1,2 +1,5 @@
 # hello-world
-just started with another repository
+
+Hi everyone!
+Abhishek here, I like javascript and web developing and overall I like to code.
+I have higher aims to achieve in my life.
