@@ -1,2 +1,4 @@
 # hello-world
-just started with another repository
+
+Hi everyone!
+I like javascript and overall I like to code.
